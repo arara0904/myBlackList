@@ -1,2 +1,5 @@
-||youtube.com/shorts/*
-||tiktok.com^
+.youtube.com
+.tiktok.com
+news.google.com
+x.com
+nicovideo.jp
