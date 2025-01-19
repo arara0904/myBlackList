@@ -1,5 +1,4 @@
-.youtube.com
-.tiktok.com
-news.google.com
+youtube.com
+tiktok.com
 x.com
 nicovideo.jp
